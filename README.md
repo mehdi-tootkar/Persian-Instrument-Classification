@@ -28,8 +28,8 @@ Performance was measured using:
 - Accuracy  
 - Precision / Recall / F1  
 - Confusion matrix
+- Per-class metrics
   ![confusion matrix](images/confusion_matrix.png)
-- Per-class metrics  
   ![per class scores](images/per_class_scores.png)
 ---
 
