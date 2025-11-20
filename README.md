@@ -27,15 +27,10 @@ Both models were trained and evaluated using the PCMIR dataset.
 Performance was measured using:
 - Accuracy  
 - Precision / Recall / F1  
-- Confusion matrix  
+- Confusion matrix
+  ![confusion matrix](images/confusion_matrix.png)
 - Per-class metrics  
-
-Confusion Matrix :
-![confusion matrix](images/confusion_matrix.png)
-
-Per Class Scores :
-![per class scores](images/per_class_scores.png)
-
+  ![per class scores](images/per_class_scores.png)
 ---
 
 ## **Dataset**
