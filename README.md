@@ -30,10 +30,10 @@ Performance was measured using:
 - Confusion matrix  
 - Per-class metrics  
 
-`images/confusion_matrix.png`
+Confusion Matrix :
 ![confusion matrix](images/confusion_matrix.png)
 
-`images/per_class_scores.png`
+Per Class Scores :
 ![per class scores](images/per_class_scores.png)
 
 ---
