@@ -76,9 +76,7 @@ python src/train.py --dataset_dir data/pcm_dataset --model cnn
 ---
 
 ## **References**
-- Su, Y. (2023). _Instrument Classification Using Different Machine Learning and Deep Learning Methods._  
 - Mousavi et al. (2019). _PCMIR: Persian Classical Music Instrument Recognition._
-
 ---
 
 ## **Acknowledgment**
