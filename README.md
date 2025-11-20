@@ -31,7 +31,10 @@ Performance was measured using:
 - Per-class metrics  
 
 `images/confusion_matrix.png`
+![confusion matrix](images/confusion_matrix.png)
+
 `images/per_class_scores.png`
+![per class scores](images/per_class_scores.png)
 
 ---
 
@@ -52,7 +55,7 @@ A Plotly-based dashboard is included for interactive analysis:
 - Per-class metrics (precision, recall, F1)  
 - Visual exploration of model outputs  
 
-`images/dashboard_screenshot.png`
+![dashboard](images/dashboard_screenshot.png)
 
 ---
 
